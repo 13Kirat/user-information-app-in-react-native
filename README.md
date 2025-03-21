@@ -22,8 +22,8 @@ This is a simple React Native app that fetches **80 users** from a public API an
 1. Clone the repository:
 
     ```sh
-    git clone <your-repo-url>
-    cd your-repo-folder
+    git clone https://github.com/13Kirat/user-information-app-in-react-native.git
+    cd user-information-app-in-react-native
 
     ```
 
